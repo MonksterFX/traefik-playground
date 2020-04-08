@@ -12,3 +12,6 @@
 
 **Middlewares**
 * errorpage: for your reverse proxy
+
+**Magic**
+* [local: setup local dev domain like domain.test](https://github.com/MonksterFX/traefik-v2-playground/tree/master/examples/local)
